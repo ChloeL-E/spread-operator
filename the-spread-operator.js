@@ -5,6 +5,10 @@
 
 // No spread operator
 
+let arr1 = [1,2,3,4];
+let arr2 = arr1;
+arr2.push(4);
+  
 // Copying an array
 
 // Copying an object
